@@ -1,0 +1,11 @@
+D:\HH\C#\Fastfood\Fastfood\bin\Debug\Fastfood.exe.config
+D:\HH\C#\Fastfood\Fastfood\bin\Debug\Fastfood.exe
+D:\HH\C#\Fastfood\Fastfood\bin\Debug\Fastfood.pdb
+D:\HH\C#\Fastfood\Fastfood\obj\Debug\Fastfood.csproj.AssemblyReference.cache
+D:\HH\C#\Fastfood\Fastfood\obj\Debug\Fastfood.csproj.SuggestedBindingRedirects.cache
+D:\HH\C#\Fastfood\Fastfood\obj\Debug\Fastfood.Form1.resources
+D:\HH\C#\Fastfood\Fastfood\obj\Debug\Fastfood.Properties.Resources.resources
+D:\HH\C#\Fastfood\Fastfood\obj\Debug\Fastfood.csproj.GenerateResource.cache
+D:\HH\C#\Fastfood\Fastfood\obj\Debug\Fastfood.csproj.CoreCompileInputs.cache
+D:\HH\C#\Fastfood\Fastfood\obj\Debug\Fastfood.exe
+D:\HH\C#\Fastfood\Fastfood\obj\Debug\Fastfood.pdb
